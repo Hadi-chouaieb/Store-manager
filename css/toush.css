@@ -1,0 +1,79 @@
+
+.mt-5{
+    border-radius:20px ;
+    box-shadow: 11px 12px 10px rgba(34, 32, 32, 0.589);
+}
+
+.msg{
+  position: absolute;
+
+  transition: 2s;
+  animation: 2s ease-out ;
+}
+
+.iamg{
+  width:20px;
+}
+.ax{
+  color: white;
+  height: 500px;
+}
+.ax{
+  background-color: #235373;
+  
+}
+.user{
+height: 100%;
+width: 100%;
+
+
+
+}
+.cardint{
+  
+  box-shadow: 1px 2px 3px black;
+}
+nav div ul li a{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  transition: 1s;
+  transform: none;
+  
+  
+}
+nav a:hover{
+
+  
+  
+}
+
+
+nav div ul li a:checked{
+  transform: translate(0px,10px);
+
+}
+
+.sum{
+  width: 100px;
+}
+.gapa{
+ width: 2px;
+ height: 145%;
+ border-left: #353335 4px solid;
+
+ margin-top: -10px;
+}
+#io{
+
+height: 500px;
+
+}
+.infos{
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.msag{
+  position: relative;
+  transform: translate(0px,10px);
+  transition: 2s;
+  
+}
